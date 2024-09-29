@@ -4,3 +4,4 @@ streamlit~=0.87.0
 opencv-contrib-python-headless
 streamlit_webrtc
 google-generativeai
+mediapipe
