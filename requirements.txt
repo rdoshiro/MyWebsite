@@ -1,7 +1,6 @@
-cvzone
 google-generativeai
-streamlit
-mediapipe
-opencv-python-headless==4.5.5.64
-numpy
-libGL.so.1
+numpy~=1.21.2
+streamlit~=0.87.0
+opencv-contrib-python-headless
+streamlit_webrtc
+google-generativeai
