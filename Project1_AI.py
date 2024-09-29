@@ -5,7 +5,9 @@ import numpy as np
 import streamlit as st
 import av
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase, RTCConfiguration
-from cvzone.HandTrackingModule import HandDetector
+
+#from cvzone.HandTrackingModule import HandDetector
+
 from PIL import Image
 
 # Configure Google Generative AI
