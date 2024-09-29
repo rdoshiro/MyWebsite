@@ -2,5 +2,5 @@ cvzone
 google-generativeai
 streamlit
 mediapipe
-opencv-python-headless
+ opencv-python-headless==4.5.5.64
 numpy
