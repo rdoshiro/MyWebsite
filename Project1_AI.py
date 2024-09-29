@@ -5,7 +5,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 
-api_key = st.secrets ["AIzaSyBa0nA2SbuamCQPsUB93BgtJzcTKuRTYDI"]
+api_key = st.secrets ["GOOGLE_API_KEY"]
 
 genai.configure(api_key = api_key )
 model = genai.GenerativeModel("gemini-1.5-flash")
