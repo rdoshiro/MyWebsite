@@ -4,3 +4,4 @@ streamlit
 mediapipe
 opencv-python-headless==4.5.5.64
 numpy
+libGL.so.1
