@@ -1,5 +1,0 @@
-numpy~=1.21.2
-streamlit~=0.87.0
-opencv-contrib-python-headless
-streamlit_webrtc
-google-generativeai
