@@ -4,4 +4,3 @@ streamlit
 mediapipe
 opencv-python-headless
 numpy
-libgl1-mesa-glx
