@@ -1,6 +1,6 @@
-streamlit
-google-generativeai
 cvzone
+google-generativeai
+streamlit
 mediapipe
 numpy
 opencv-python
