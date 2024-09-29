@@ -3,6 +3,7 @@ import cv2
 import google.generativeai as genai
 import numpy as np
 import streamlit as st
+import os
 from PIL import Image
 
 api_key = st.secrets["GOOGLE_API_KEY"]
